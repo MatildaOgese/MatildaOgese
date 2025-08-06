@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Nekpen Matilda Ogese</h1>
 <p align="center">
-  <b>Data Analyst | Business Intelligence Enthusiast | Cloud Learner</b><br>
+  <b>Data Analyst | Business Intelligence Developer | Cloud Learner</b><br>
   Passionate about turning data into actionable insights using modern tools.
 </p>
 
