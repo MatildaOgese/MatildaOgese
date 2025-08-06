@@ -48,7 +48,7 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/nekpen-matilda-ogese-79852272)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nekpen-matilda-ogese-79852272)
 - 📧 [Email Me](nekpenogese@gmail.com)
 
 ---
